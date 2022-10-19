@@ -3,11 +3,6 @@ A loan application mobile app using react native
 Simple Loan App built with react native and typescript
 This is a simple loan application created in react native and firebase with Rave APIs used in handling various payments.
 
-Table Of Contents
-Prerequisites
-Dependencies
-How To Set It Up Locally
-Contributions
 Prerequisites
 Rave Test and Live Accounts
 Node and NPM (mostly together as a package)
