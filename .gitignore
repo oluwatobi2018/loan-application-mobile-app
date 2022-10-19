@@ -1,0 +1,10 @@
+# node_modules/**/*
+.expo/*
+npm-debug.*
+.env
+src/assets/db.db
+screens/AccountScreen.1.js
+libraries/DBApi.js
+components/Header.js
+screens/PaymentScreen.js
+package-lock.json
