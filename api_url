@@ -1,0 +1,11 @@
+const apiUrl = process.env.API_URL || ' https://6270020422c706a0ae70b72c.mockapi.io/lendsqr/api/v1/users/:id '
+const strapi = new Strapi(apiUrl);
+
+process.env['API_URL'] = ' https://6270020422c706a0ae70b72c.mockapi.io/lendsqr/api/v1/users ';
+console.log(process.env);
+
+{ 
+    API_URL: ' https://6270020422c706a0ae70b72c.mockapi.io/lendsqr/api/v1/users'; ' https://6270020422c706a0ae70b72c.mockapi.io/lendsqr/api/v1/users/:id '
+    TERM_PROGRAM_VERSION; '1.34.0',
+    LANG; 'en_US.UTF-8' 
+  }
